@@ -119,4 +119,8 @@
         - REDUX TOOLKIT 
             - configureStore() : creating a Redux store
             - Provider from react-redux : Provide store to react App 
+            - createSlice() : used to hold both action and reducer together and it return reducer, actions
+            - useSelector : hook used to access state from store to compoenet
+            - useDispatch : hook used dispatch/execute the action from component
+
         
